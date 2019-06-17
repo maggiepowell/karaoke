@@ -8,6 +8,7 @@ body {
     background-image: url("./assets/manekineko.gif");
     background-repeat: no-repeat;
     display: block;
+    min-height: 600px;
     margin-left: auto;
     margin-right: auto;
 
@@ -35,3 +36,17 @@ body {
     border-style: solid;
     padding: 5px;
 }
+
+/* .parallax {
+/* The image used */
+    /* background-image: url("./assets/manekineko.gif"); */
+
+/* Set a specific height */
+    /* min-height: 300px;  */
+
+/* Create the parallax scrolling effect */
+    /* background-attachment: fixed;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: contain;
+} */

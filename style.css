@@ -17,6 +17,7 @@ body {
     font-family: 'Kosugi Maru', sans-serif;
     font-size: 100px;
     text-align: center;
+    margin-bottom: 30px;
 }
 
 .media {
@@ -25,5 +26,12 @@ body {
     display: flex;
     flex-wrap: wrap;
     justify-content: center;
+    margin: auto;
+}
+
+.mediaContent {
+    margin-right: 15px;
+    border: 3px;
+    border-style: solid;
     padding: 5px;
 }

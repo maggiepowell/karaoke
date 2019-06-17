@@ -1,6 +1,6 @@
 body {
     font-family: 'Coda', cursive;
-    color: greenyellow;
+    color: rgb(47, 255, 158);
     background-color: black;
 }
 
@@ -17,4 +17,12 @@ body {
     font-family: 'Kosugi Maru', sans-serif;
     font-size: 100px;
     text-align: center;
+}
+
+.media {
+    font-size: 32px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 5px;
 }

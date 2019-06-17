@@ -20,6 +20,7 @@ body {
 }
 
 .media {
+    color: orange;
     font-size: 32px;
     display: flex;
     flex-wrap: wrap;

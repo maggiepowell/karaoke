@@ -1,0 +1,20 @@
+body {
+    font-family: 'Coda', cursive;
+    color: greenyellow;
+    background-color: black;
+}
+
+.neko {
+    background-image: url("./assets/manekineko.gif");
+    background-repeat: no-repeat;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+.title {
+    font-family: 'Kosugi Maru', sans-serif;
+    font-size: 100px;
+    text-align: center;
+}

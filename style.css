@@ -1,3 +1,9 @@
+body {
+    font-family: 'Coda', cursive;
+    color: rgb(47, 255, 158);
+    background-color: black;
+}
+
 .navbar {
     background-color: rgb(47, 255, 158);
     color: black;
@@ -19,6 +25,7 @@
     background-repeat: no-repeat;
     display: block;
     min-height: 600px;
+    max-width: 800px;
     margin-left: auto;
     margin-right: auto;
 

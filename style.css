@@ -14,6 +14,7 @@ body {
 }
 
 .main {
+    min-height: 1000px;
     font-family: 'Coda', cursive;
     color: rgb(47, 255, 158);
     background-color: black;

@@ -1,5 +1,10 @@
 .navbar {
-    background-color: black;
+    background-color: rgb(47, 255, 158);
+    color: black;
+}
+
+.navbar-brand:link, .navbar-brand:visited, .navbar-brand:hover, .navbar-brand:active {
+    text-decoration: none;
 }
 
 .main {

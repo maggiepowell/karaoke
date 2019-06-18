@@ -9,6 +9,10 @@ body {
     color: black;
 }
 
+img {
+    border-radius: 50%;
+  }
+  
 .navbar-brand:link, .navbar-brand:visited, .navbar-brand:hover, .navbar-brand:active {
     text-decoration: none;
 }

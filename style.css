@@ -1,8 +1,13 @@
-body {
+.navbar {
+    background-color: black;
+}
+
+.main {
     font-family: 'Coda', cursive;
     color: rgb(47, 255, 158);
     background-color: black;
 }
+
 
 .neko {
     background-image: url("./assets/manekineko.gif");

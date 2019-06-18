@@ -12,13 +12,14 @@ body {
 img {
     border-radius: 50%;
   }
-  
+
 .navbar-brand:link, .navbar-brand:visited, .navbar-brand:hover, .navbar-brand:active {
     text-decoration: none;
 }
 
 .main {
     min-height: 1000px;
+    margin-top: 60px;
     font-family: 'Coda', cursive;
     color: rgb(47, 255, 158);
     background-color: black;

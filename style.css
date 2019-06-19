@@ -7,7 +7,7 @@ body {
 .navbar {
     /* background-color: rgb(47, 255, 158); */
     color: black;
-    background: linear-gradient(55deg, #000000 0%, #000000 51%, #ffb52b 85%);
+    background: linear-gradient(90deg, #000000 0%, #000000 51%, #ffb52b 85%);
 }
 
 img {
